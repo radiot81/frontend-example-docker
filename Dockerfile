@@ -17,4 +17,5 @@ RUN apt-get update && apt-get install -y curl ca-certificates && \
 
 EXPOSE 5000
 
+
 CMD npm start
